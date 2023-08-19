@@ -1,0 +1,12 @@
+Age Distribution and Churn:
+The age distribution varies across different geographies. Germany tends to have a slightly older population compared to France and Spain. This insight suggests that age might be a relevant factor influencing churn rates, especially considering that customer behaviors and preferences can differ based on age groups.
+
+Tenure and Estimated Salary Relationship:
+The analysis of tenure and estimated salary did not reveal any clear correlation with churn status. This suggests that these two attributes alone may not strongly influence whether a customer churns or not. Other factors might be more influential in determining customer churn, warranting a deeper exploration of these factors.
+
+Churn Rate and Number of Products:
+Customers with fewer products tend to have a higher churn rate. This observation suggests that customers using fewer services or products might be more likely to leave the bank. Offering incentives, improved services, or targeted engagement strategies to customers with fewer products could potentially help mitigate churn in this group.
+
+
+
+
